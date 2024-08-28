@@ -36,7 +36,7 @@
     position: relative;
     display: inline-flex;
     border-radius: 50%;
-    background: url("https://joshuaemor.github.io/WesternBadminton/assets/img/home-item-5.jpg") center center no-repeat;
+    background: url("https://westernbadminton.github.io/WesternBaddies/assets/img/logo.png") center center no-repeat;
     background-size: cover;
     width: clamp(4.5em, 6.5vw, 8em);
     height: clamp(4.5em, 6.5vw, 8em);
